@@ -1,7 +1,6 @@
 .omgdtmp
 
 profiles/*
-!profiles/example.yml
 !profiles/local.yml
 
 .omgd/*

@@ -1,5 +1,0 @@
-omgd:
-  gcp:
-    type: f1-micro
-  servers:
-    host: 35.237.92.83
