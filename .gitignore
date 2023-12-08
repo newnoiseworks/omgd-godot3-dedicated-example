@@ -2,6 +2,8 @@
 
 profiles/*
 !profiles/local.yml
+!profiles/omgd.yml
+!profiles/omgd.cloud.example.yml
 
 .omgd/*
 
